@@ -3,7 +3,7 @@
 
 ## Recommended Tools
 ### MongoDB Compass
-To explore the MongoDB, we would recommend mongodb compass
+To explore the MongoDB, we recommend mongodb compass
 > https://www.mongodb.com/products/tools/compass
 
 ### Docker (Desktop)
