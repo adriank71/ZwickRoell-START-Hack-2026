@@ -41,6 +41,11 @@ this is the propably biggest source for UUIDs. The structure of a valucolumn ent
 	- for Measurements, take a look at the `channelParameterMap`
 - some `test.valuecolumn._id` end with a _key - they can be safely ignored and weren't migrated into this test dataset
 
+## OpenAI Api Key
+If you don't have access to a llm, you can use the following API Key:
+
+> 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
+ 
 ## Reading and inspiration
 
 - https://t3n.de/news/claude-wird-zum-daten-tool-anthropic-bringt-klickbare-charts-in-den-chat-auch-fuer-free-user-1733872/
