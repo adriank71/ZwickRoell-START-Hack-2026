@@ -21,6 +21,7 @@ https://modelcontextprotocol.io/docs/tools/inspector
 	1. `echo "YOUR_TOKEN" | docker login ghcr.io -u YOUR_GITHUB_NAME --password-stdin`
 3. pull the image via:
 	1. `docker pull ghcr.io/svenstamm/txp-mongo:latest`
+    2. if you get a access denied, please check in with Adrian or me (Sven Stamm) if you got the necessary permissions 
 4. The mongodb server is running without Authentication, on the default ports. Start the image by running
 5. `docker run -d -p 27017:27017 --name txp-database ghcr.io/svenstamm/txp-mongo:latest`
 6. On first start, the mongodb is getting setup, this may take a little bit, you can check the logs to view the progress
